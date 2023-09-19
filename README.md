@@ -3,7 +3,7 @@
 In this event we will play a (digital) capture the flag game.
 We will use this [website](https://247ctf.com/dashboard) that contains a collection of different challenges from different disiplines (for example: networking, crypto, web etc).
 
-Each challenge is different and we the organisers have not solved them before
+Each challenge is different and we the organisers have not solved them before.
 
 ## Teams
 
@@ -11,10 +11,14 @@ We recommend you would work with a team in this event, but it is also possible t
 
 Each team should come up with a team name that will be used for counting points.
 
+**One or more of the team members can create accounts in that website.**
+
+**You are allowed to solve more than one challenge at any given time.**
+
 ## Point system
 
 Each challenge has its own points attached to it, we will use this point system for grading the challenges
-![](./img/points)
+![points](./img/points.jpg)
 
 ## Submiting results
 
